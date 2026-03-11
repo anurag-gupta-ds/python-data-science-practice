@@ -50,7 +50,7 @@ python-data-science-practice
 │   ├── functions_practice.py
 │   └── file_handling_practice.py
 │
-├── libraries-practice-notbooks
+├── libraries-practice-notebooks
 │   ├── numpy_basics.ipynb
 │   ├── pandas_practice.ipynb
 │   ├── matplotlib_plots.ipynb
