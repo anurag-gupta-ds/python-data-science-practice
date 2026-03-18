@@ -39,16 +39,25 @@ python-data-science-practice
 │   └── tic-tac-toe-game
 │
 ├── python-practice-files
-│   ├── python_basics.py
-│   ├── loops_practice.py
-│   ├── functions_practice.py
-│   └── file_handling_practice.py
+│   ├── advanced-python
+│   ├── conditional-expressions
+│   ├── dictionary-and-tuples
+│   ├── file-input-output
+│   ├── functions-recurtions
+│   ├── inheritence-and-more-on-oops
+│   ├── modules comments & pip
+│   ├── lists-and-tuples
+│   ├── loops-in-python
+│   ├── modules comments & pip
+│   ├── oops
+│   ├── strings
+│   └── variables-and-datatypes
 │
 ├── libraries-practice-notebooks
-│   ├── numpy_basics.ipynb
-│   ├── pandas_practice.ipynb
-│   ├── matplotlib_plots.ipynb
-│   └── seaborn_visualization.ipynb
+│   ├── numpy-practice.ipynb
+│   ├── pandas-practice.ipynb
+│   ├── matplotlib-practice.ipynb
+│   └── seaborn-practice.ipynb
 │
 └── README.md
 ```
