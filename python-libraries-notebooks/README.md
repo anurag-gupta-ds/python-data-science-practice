@@ -1,13 +1,12 @@
-
 📊 Python Libraries Practice Notebooks
 
 This section of the repository contains my practice notebooks while learning essential Python libraries used in Data Science. The focus is on understanding how to work with data, perform analysis, and create visualizations using industry-standard tools.
 
 📌 About
 
-These notebooks document my hands-on learning of core Python libraries that are widely used in Data Science and Data Analysis.
+These notebooks document my hands-on learning of core Python libraries widely used in Data Science and Data Analysis.
 
-Each notebook includes:
+Included in Each Notebook
 
 Concept explanations
 
@@ -15,15 +14,20 @@ Practical examples
 
 Practice exercises
 
-This helps in building a strong foundation required for Exploratory Data Analysis (EDA) and Machine Learning.
+This helps in building a strong foundation for Exploratory Data Analysis (EDA) and Machine Learning.
 
 📂 Structure
+
 libraries-practice-notebooks
-│
-├── numpy-practice.ipynb
-├── pandas-practice.ipynb
-├── matplotlib-practice.ipynb
-└── seaborn-practice.ipynb
+
+numpy-practice.ipynb
+
+pandas-practice.ipynb
+
+matplotlib-practice.ipynb
+
+seaborn-practice.ipynb
+
 📚 Libraries Covered
 NumPy
 
@@ -55,8 +59,6 @@ Advanced plotting techniques
 
 🧠 Skills Developed
 
-Through these notebooks, I am improving:
-
 Data manipulation and analysis
 
 Data visualization techniques
@@ -85,7 +87,7 @@ Integrate mini EDA projects
 
 🔗 Related Section
 
-These notebooks support the overall repository:
+These notebooks are part of the main repository:
 
 Python Data Science Practice
 
