@@ -133,4 +133,9 @@ Aspiring **Data Scientist** currently focusing on the following learning roadmap
 
 ---
 
+## 📫 Contact
+
+Email: ag2929822@gmail.com  
+LinkedIn: https://www.linkedin.com/in/anurag-gupta007/
+
 ⭐ This repository represents my **learning journey in Python programming for Data Science**.
